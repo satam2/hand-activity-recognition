@@ -1,0 +1,2 @@
+wisdm-dataset/**/*.txt filter=lfs diff=lfs merge=lfs -text
+wisdm-dataset/**/*.arff filter=lfs diff=lfs merge=lfs -text
