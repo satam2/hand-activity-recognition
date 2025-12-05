@@ -27,8 +27,8 @@ Plus 6 non-hand activities (walking, jogging, stairs, sitting, standing, kicking
 
 **WISDM-51 Dataset**
 - **Download**: [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/507/wisdm+smartphone+and+smartwatch+activity+and+biometrics+dataset)
-- **Dataset Description**: [WISDM Dataset Paper](./docs/dataset_description.pdf)
-- **Our Project Report**: [Final Report PDF](./docs/final_report.pdf)
+- **Dataset Description**: [WISDM Dataset Paper](./documents/dataset_description.pdf)
+- **Our Project Report**: [Final Report PDF](./documents/final_report.pdf)
 
 **Specifications:**
 - 51 participants
