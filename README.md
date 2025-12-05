@@ -25,7 +25,12 @@ Plus 6 non-hand activities (walking, jogging, stairs, sitting, standing, kicking
 
 ## Dataset
 
-**WISDM-51 Dataset** ([Download](https://archive.ics.uci.edu/dataset/507/wisdm+smartphone+and+smartwatch+activity+and+biometrics+dataset))
+**WISDM-51 Dataset**
+- **Download**: [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/507/wisdm+smartphone+and+smartwatch+activity+and+biometrics+dataset)
+- **Dataset Description**: [WISDM Dataset Paper](./docs/dataset_description.pdf)
+- **Our Project Report**: [Final Report PDF](./docs/final_report.pdf)
+
+**Specifications:**
 - 51 participants
 - 18 activity classes
 - Dual sensors: smartwatch (wrist) + smartphone (pocket)
@@ -86,5 +91,3 @@ model.fit(X_train, y_train)
 accuracy = model.score(X_test, y_test)
 print(f"Accuracy: {accuracy:.4f}")
 ```
-
-## Project Structure
